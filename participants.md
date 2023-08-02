@@ -8,6 +8,7 @@ A list of participants in CSC 195
 * Ezra "Slow Rider" Edgerton
 * Halley Freger
 * Seth D. H. Hanson
+* Akash singh
 * Ajuna S. Kyaruzi
 * Eve B. Lyons-Berg
 * Shaun S. Mataire
